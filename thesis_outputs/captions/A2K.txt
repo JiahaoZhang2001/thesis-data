@@ -1,1 +1,0 @@
-Reach prediction (k-window). Out-of-sample R^2 (mean±SD) from 5-fold CV, target log(1+final_size). Baseline/structure-only/full as in A1K. Coverage reports fraction of cascades with final_size ≥ K.

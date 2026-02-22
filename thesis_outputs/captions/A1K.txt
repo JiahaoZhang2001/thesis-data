@@ -1,1 +1,0 @@
-Veracity prediction (k-window). ROC-AUC (mean±SD) from 5-fold Stratified CV. Baseline uses early_n_nodes and early_growth_rate_k; structure-only uses Bundle C; full combines both. Coverage reports fraction of cascades with final_size ≥ K.
