@@ -16,6 +16,14 @@ This repository evaluates whether early diffusion structure and timing in rumor 
   - `thesis_outputs/figures/F2K_k_reach_primary.png`
   - `thesis_outputs/logs/run_config.json`
 
+
+## Key Figures
+### Figure 1. Veracity classification performance in size-based windows
+![Figure 1](README_files/F1K_k_veracity_primary.png)
+
+### Figure 2. Reach prediction performance in size-based windows
+![Figure 2](README_files/F2K_k_reach_primary.png)
+
 ## Requirements
 - Python tested: **3.12.2**
 - Install dependencies:
